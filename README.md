@@ -7,6 +7,8 @@ That's when it occured to me - how can I take this seemingly annoying issue, and
 ## Usage
 `python3 roku-rogue.py`
 
+Also download Web Video Caster on Android or iOS if you want to mirror media.
+
 Options:
 1. Install Web Cast -- Installs web cast, which can be used for pwning TVs with your own custom video content or MP3s. First, the script turns the volume down to 0 to ensure that the victim device will not disturb the owner with the sound of attempts or pin entry. Then, it runs through all of the combinations until it successfully brutes the pin to install the application. It then re-adjusts the volume to a reasonable level.
 2. Install Another App -- Same as option 1, except you can enter the app ID of the app you want to install. Please see "Custom Apps" for details.
